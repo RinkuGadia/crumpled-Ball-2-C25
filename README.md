@@ -1,1 +1,1 @@
-# crumpled-Ball-2-C25
+# CP-2
